@@ -1,0 +1,9 @@
+body{
+background: #4a80b1;
+}
+
+.search_img{
+    background:url('../images/icn_search.png');
+    height:150px;
+    width:150px;
+}
